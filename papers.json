@@ -1,0 +1,359 @@
+{
+  "title": "Carroll–Weyl Atlas",
+  "updated": "2026-11-13",
+  "scope": "Direct hep-th studies of Carroll–Weyl gauged null strings, including critical responses and related conformal-string constructions.",
+  "papers": [
+    {
+      "id": "2611.10907",
+      "title": "eAdS- embedded AdS, tensionless strings and contracted Carroll-Weyl symmetry",
+      "authors": [
+        "Ulf Lindström",
+        "Bo Sundborg"
+      ],
+      "date": "2026-11-07",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Curved backgrounds",
+        "Classical theory"
+      ],
+      "summary": "Uses a Stückelberg scalar to construct embedded AdS strings whose local scaling symmetry commutes with AdS isometries. Derives the tensionless limit and compares its contracted Carroll–Weyl symmetry with other gauged null-string constructions.",
+      "sources": [
+        "https://arxiv.org/abs/2611.10907",
+        "https://arxiv.org/html/2611.10907v1"
+      ]
+    },
+    {
+      "id": "2611.09420",
+      "title": "Null Strings Gauged, Reloaded and Quantized, II: Null Strings on Flat Backgorund Have Discrete Spectrum",
+      "authors": [
+        "Ida M. Rasulian",
+        "M. M. Sheikh-Jabbari",
+        "H. Yavartanoo"
+      ],
+      "date": "2026-11-06",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Quantization"
+      ],
+      "summary": "Extends light-cone Schrödinger quantization to higher-order wavefunctionals, deriving discrete, nonnegative mass-squared levels in a specified regular separated sector and examining the regularity, projection and physical-pairing conditions needed to interpret the solutions.",
+      "sources": [
+        "https://arxiv.org/abs/2611.09420",
+        "https://arxiv.org/html/2611.09420v1"
+      ],
+      "note": "The spelling 'Backgorund' is preserved from the current official arXiv title."
+    },
+    {
+      "id": "2610.37546",
+      "title": "Reflected constraint algebras of open Carroll--Weyl null strings",
+      "authors": [
+        "Limin Zeng"
+      ],
+      "date": "2026-10-27",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Open strings",
+        "Gauge symmetry"
+      ],
+      "summary": "Studies endpoint conditions and Hamiltonian generators for open Carroll–Weyl null strings. Smooth reflection yields a constraint-algebra sector and physical observables, while an explicit endpoint obstruction shows that the reflected sector excludes some gauge orbits of the interval theory.",
+      "sources": [
+        "https://arxiv.org/abs/2610.37546"
+      ]
+    },
+    {
+      "id": "2610.10717",
+      "title": "Carroll-Weyl gauged null strings in AdS",
+      "authors": [
+        "Sarthak Duary",
+        "Sourav Maji"
+      ],
+      "date": "2026-10-07",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Curved backgrounds",
+        "Quantization",
+        "BRST & anomalies"
+      ],
+      "summary": "Builds a radial formulation of Carroll–Weyl gauged null strings in AdS and computes its constraint algebra. In the highest-weight realization considered, the surviving anomaly cancels at target dimension 27, distinguishing this construction from the flat-space dilation model.",
+      "sources": [
+        "https://arxiv.org/abs/2610.10717",
+        "https://arxiv.org/html/2610.10717v2"
+      ]
+    },
+    {
+      "id": "2610.10540",
+      "title": "Null string holography in AdS from local BRST descent",
+      "authors": [
+        "Sarthak Duary",
+        "Sourav Maji"
+      ],
+      "date": "2026-10-07",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Curved backgrounds",
+        "BRST & anomalies",
+        "Holography"
+      ],
+      "summary": "Shows that the radial sector of the Poincaré-AdS Carroll–Weyl string forms a contractible BRST quartet. A local reduction yields the lower-dimensional ILST complex and relates the corresponding anomaly conditions.",
+      "sources": [
+        "https://arxiv.org/abs/2610.10540"
+      ]
+    },
+    {
+      "id": "2610.03495",
+      "title": "Carrollian Worldsheets on Carrollian Targets, When does ILST describe a null string theory?",
+      "authors": [
+        "M. M. Sheikh-Jabbari",
+        "H. Yavartanoo"
+      ],
+      "date": "2026-10-02",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Classical theory",
+        "Curved backgrounds"
+      ],
+      "summary": "Formulates Carroll–Weyl null strings on Carrollian target spaces and identifies conditions under which the ILST action suffices. Studies deformations involving target-space clock and connection data, with horizon and holographic applications.",
+      "sources": [
+        "https://arxiv.org/abs/2610.03495"
+      ]
+    },
+    {
+      "id": "2609.10432",
+      "title": "Null String Holography, Null Strings Probe Projective Boundary of Their Target Spaces",
+      "authors": [
+        "M. M. Sheikh-Jabbari",
+        "H. Yavartanoo"
+      ],
+      "date": "2026-09-09",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Holography",
+        "Curved backgrounds"
+      ],
+      "summary": "Establishes a classical correspondence between minimal Carroll–Weyl null strings and an ILST model on a projective target-space boundary. Examples include AdS, de Sitter and Minkowski backgrounds; extending the correspondence to the quantum theory is proposed as a conjecture.",
+      "sources": [
+        "https://arxiv.org/abs/2609.10432"
+      ]
+    },
+    {
+      "id": "2609.07765",
+      "title": "(Anti-)De Sitter null strings and Carroll-Weyl symmetry",
+      "authors": [
+        "Ulf Lindström",
+        "Bo Sundborg"
+      ],
+      "date": "2026-09-07",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Classical theory",
+        "Curved backgrounds"
+      ],
+      "summary": "Interprets the gauged scaling symmetry geometrically through an embedding-space construction of de Sitter null strings, and develops an anti-de Sitter extension. Examines how target geometry changes the physical interpretation of Carroll–Weyl gauging.",
+      "sources": [
+        "https://arxiv.org/abs/2609.07765"
+      ]
+    },
+    {
+      "id": "2609.04844",
+      "title": "What is Classical Null String Theory?",
+      "authors": [
+        "M. M. Sheikh-Jabbari",
+        "H. Yavartanoo"
+      ],
+      "date": "2026-09-04",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Classical theory",
+        "Gauge symmetry"
+      ],
+      "summary": "Clarifies the distinction between a Carrollian sigma model and the proposed fully gauged null-string theory. It examines the relative Carroll–Weyl constraint, the finite-tension obstruction and the description of classical solutions through null-geodesic congruences.",
+      "sources": [
+        "https://arxiv.org/abs/2609.04844"
+      ]
+    },
+    {
+      "id": "2608.02987",
+      "title": "Quantum Anomalies of Tensionless Bosonic Strings",
+      "authors": [
+        "Bin Chen",
+        "Zezhou Hu"
+      ],
+      "date": "2026-08-04",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Quantization",
+        "BRST & anomalies"
+      ],
+      "summary": "Compares BRST structures and anomalies in conformal, ILST, Carroll–Weyl gauged, and hybrid strings. Distinguishes induced and flipped vacuum results, finding incompatible anomaly conditions for the Carroll–Weyl model in the flipped representation.",
+      "sources": [
+        "https://arxiv.org/abs/2608.02987",
+        "https://doi.org/10.1007/JHEP11(2026)040"
+      ]
+    },
+    {
+      "id": "2608.02731",
+      "title": "BRST quantization of Carroll-Weyl gauged null strings",
+      "authors": [
+        "Sarthak Duary",
+        "Sourav Maji"
+      ],
+      "date": "2026-08-03",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Quantization",
+        "BRST & anomalies"
+      ],
+      "summary": "Constructs the matter–ghost BRST complex in a flat target. In the highest-weight representation studied, three independent anomaly conditions are incompatible, so the minimal Carroll–Weyl gauged model has no anomaly-free target-space dimension in that representation.",
+      "sources": [
+        "https://arxiv.org/abs/2608.02731",
+        "https://inspirehep.net/literature/3187093"
+      ]
+    },
+    {
+      "id": "2607.02970",
+      "title": "Null-strings Gauged, Reloaded and Quantized, I: Canonical Quantization in the Light-Cone Gauge",
+      "authors": [
+        "Ida M. Rasulian",
+        "M. M. Sheikh-Jabbari",
+        "H. Yavartanoo"
+      ],
+      "date": "2026-07-03",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Quantization"
+      ],
+      "summary": "Constructs Schrödinger wavefunctionals after reducing the Carroll–Weyl constraints in light-cone gauge. The authors study ground and excited states and obtain a discrete spectrum without a critical dimension in this quantization scheme.",
+      "sources": [
+        "https://arxiv.org/abs/2607.02970"
+      ]
+    },
+    {
+      "id": "2606.22498",
+      "title": "The conformal null string in $d+2$ and $d$ dimensions",
+      "authors": [
+        "Ulf Lindström"
+      ],
+      "date": "2026-06-21",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Classical theory",
+        "Gauge symmetry"
+      ],
+      "summary": "Relates the Carroll–Weyl gauged string to the conformal null string through slices of Dirac embedding space. Reduces both the model and its constraint algebra from d+2 dimensions, making the lower-dimensional scaling symmetry explicit.",
+      "sources": [
+        "https://arxiv.org/abs/2606.22498",
+        "https://arxiv.org/html/2606.22498"
+      ]
+    },
+    {
+      "id": "2606.04999",
+      "title": "Path integral quantization of null bosonic strings with Carroll-Weyl ghosts",
+      "authors": [
+        "Sarthak Duary",
+        "Sourav Maji"
+      ],
+      "date": "2026-06-03",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Quantization",
+        "BRST & anomalies"
+      ],
+      "summary": "Develops a Faddeev–Popov path integral for the independent Carroll–Weyl scaling symmetry. The resulting ghost and antighost sector supplements the BMS ghost system and changes the quantum consistency analysis of null bosonic strings.",
+      "sources": [
+        "https://arxiv.org/abs/2606.04999",
+        "https://doi.org/10.1007/JHEP10(2026)134"
+      ]
+    },
+    {
+      "id": "2605.26822",
+      "title": "Null Strings Gauged and Reloaded, II: Consistent Classical Treatment of the Null Strings",
+      "authors": [
+        "M. M. Sheikh-Jabbari",
+        "H. Yavartanoo"
+      ],
+      "date": "2026-05-26",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Gauge symmetry",
+        "Classical theory"
+      ],
+      "summary": "Works out the Hamiltonian constraints and classical dynamics of the fully gauged theory. A weight-one generator extends the BMS₃ constraint algebra, clarifying how the additional gauge symmetry distinguishes this construction from the usual tensile-string limit.",
+      "sources": [
+        "https://arxiv.org/abs/2605.26822"
+      ]
+    },
+    {
+      "id": "2605.26185",
+      "title": "Symmetries of tensionless strings",
+      "authors": [
+        "Ulf Lindström"
+      ],
+      "date": "2026-05-25",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Gauge symmetry",
+        "Classical theory"
+      ],
+      "summary": "A direct response to the initiating paper, locating the disputed scale symmetry in earlier classical and quantum treatments of tensionless strings. It connects the discussion to conformal strings and their Hamiltonian BRST constraints.",
+      "sources": [
+        "https://arxiv.org/abs/2605.26185",
+        "https://arxiv.org/html/2605.26185v1"
+      ]
+    },
+    {
+      "id": "2605.25817",
+      "title": "Null Strings Gauged and Reloaded, I: Null Strings Have Carroll-Weyl Gauge Symmetry",
+      "authors": [
+        "M. M. Sheikh-Jabbari",
+        "H. Yavartanoo"
+      ],
+      "date": "2026-05-25",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Gauge symmetry",
+        "Classical theory"
+      ],
+      "summary": "Develops the geometric origin of two independent Carrollian Weyl scalings and formulates a null-string action that gauges both. The analysis relates the familiar ILST action to a partially gauge-fixed description.",
+      "sources": [
+        "https://arxiv.org/abs/2605.25817",
+        "https://inspirehep.net/literature/3159259"
+      ]
+    },
+    {
+      "id": "2605.12414",
+      "title": "An Inconsistency in the Null Strings Literature: The Tale of an Overlooked Symmetry",
+      "authors": [
+        "M. M. Sheikh-Jabbari",
+        "H. Yavartanoo"
+      ],
+      "date": "2026-05-12",
+      "category": "hep-th",
+      "kind": "core",
+      "topics": [
+        "Gauge symmetry",
+        "Classical theory"
+      ],
+      "summary": "The initiating paper identifies an overlooked local symmetry in the null-string action and argues that imposing its constraint changes the physical degrees of freedom. It motivates the subsequent Carroll–Weyl gauging programme.",
+      "sources": [
+        "https://arxiv.org/abs/2605.12414",
+        "https://inspirehep.net/literature/3154828"
+      ]
+    }
+  ]
+}
